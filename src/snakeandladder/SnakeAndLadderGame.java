@@ -3,6 +3,8 @@ package snakeandladder;
 import java.security.NoSuchAlgorithmException;
 import java.util.Scanner;
 
+import snakeandladder.model.Player;
+
 public class SnakeAndLadderGame {
 
 	public static void main(String[] args) throws NoSuchAlgorithmException {
