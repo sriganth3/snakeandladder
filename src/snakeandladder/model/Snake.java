@@ -1,4 +1,4 @@
-package snakeandladder;
+package snakeandladder.model;
 
 public class Snake {
 

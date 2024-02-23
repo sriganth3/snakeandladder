@@ -1,4 +1,4 @@
-package snakeandladder;
+package snakeandladder.model;
 
 import java.security.NoSuchAlgorithmException;
 import java.security.SecureRandom;
